@@ -1,0 +1,18 @@
+{
+  "id": "gemma4-ios",
+  "name": "Gemma4 Ios",
+  "bundleId": "com.momo.gemma4-ios",
+  "icon": "",
+  "versions": [
+    {
+      "version": "1.7.0",
+      "build": 1775577874643,
+      "date": "2026-04-07T16:04:34.643Z",
+      "sizeMB": 6.6,
+      "sha256": "e86db3cc",
+      "changelog": "M1:对话 M2:多对话 M3:内存优化 M4:Tool Use M5:iCloud文件 M6:Memory系统 M7:体验打磨",
+      "files": []
+    }
+  ],
+  "latest": "1.7.0"
+}
