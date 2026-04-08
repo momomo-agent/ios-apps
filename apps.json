@@ -25,6 +25,15 @@
       "icon": "",
       "versions": [
         {
+          "version": "2.0.0",
+          "build": 1775650807492,
+          "date": "2026-04-08T12:20:07.492Z",
+          "sizeMB": 6.8,
+          "sha256": "435988e0",
+          "changelog": "M11 完成：30个工具，手机上的 OpenClaw\n- 函数调用标准化（JSON格式）\n- 联系人：search_contacts, get_contact\n- 位置：get_current_location, geocode_address, reverse_geocode\n- 地图：search_places, get_directions\n- 通知：create_notification, list_notifications, cancel_notification\n- 相册：search_photos, get_photo_metadata, save_photo\n- 健康数据：get_health_data, get_health_stats（需特殊profile）",
+          "files": []
+        },
+        {
           "version": "1.8.0",
           "build": 1775649817321,
           "date": "2026-04-08T12:03:37.321Z",
@@ -34,7 +43,7 @@
           "files": []
         }
       ],
-      "latest": "1.8.0",
+      "latest": "2.0.0",
       "shortCode": "a7683e",
       "shortUrl": "https://ota.momomo.dev/s/a7683e"
     }
