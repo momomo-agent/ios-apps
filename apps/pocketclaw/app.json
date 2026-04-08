@@ -1,0 +1,20 @@
+{
+  "id": "pocketclaw",
+  "name": "Pocketclaw",
+  "bundleId": "com.momo.pocketclaw",
+  "icon": "",
+  "versions": [
+    {
+      "version": "1.8.0",
+      "build": 1775649817321,
+      "date": "2026-04-08T12:03:37.321Z",
+      "sizeMB": 5.9,
+      "sha256": "b22a1ea8",
+      "changelog": "M11 完成：30个工具，手机上的 OpenClaw\n- 函数调用标准化（JSON格式）\n- 联系人、位置、地图、通知\n- 相册、健康数据（需要特殊profile，暂时禁用）",
+      "files": []
+    }
+  ],
+  "latest": "1.8.0",
+  "shortCode": "a7683e",
+  "shortUrl": "https://ota.momomo.dev/s/a7683e"
+}

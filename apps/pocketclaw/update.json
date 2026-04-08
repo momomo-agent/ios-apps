@@ -1,0 +1,13 @@
+{
+  "appId": "pocketclaw",
+  "name": "Pocketclaw",
+  "bundleId": "com.momo.pocketclaw",
+  "latestVersion": "1.8.0",
+  "build": 1775649817321,
+  "date": "2026-04-08T12:03:37.321Z",
+  "ipaSize": 5.9,
+  "sha256": "b22a1ea8",
+  "downloadUrl": "https://ota.momomo.dev/apps/pocketclaw/pocketclaw.ipa",
+  "manifestUrl": "https://ota.momomo.dev/apps/pocketclaw/manifest.plist",
+  "detailUrl": "https://ota.momomo.dev/apps/pocketclaw/"
+}
