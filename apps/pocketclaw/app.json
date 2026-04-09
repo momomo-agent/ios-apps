@@ -6,11 +6,11 @@
   "versions": [
     {
       "version": "2.0.0",
-      "build": 1775692750252,
-      "date": "2026-04-08T23:59:10.252Z",
+      "build": 1775693695603,
+      "date": "2026-04-09T00:14:55.603Z",
       "sizeMB": 6.8,
-      "sha256": "435988e0",
-      "changelog": "M11 完成：30个工具，手机上的 OpenClaw (Development 签名)",
+      "sha256": "4521d7b5",
+      "changelog": "M11 完成：30个工具，手机上的 OpenClaw\n- 函数调用标准化（JSON格式）\n- 联系人：search_contacts, get_contact\n- 位置：get_current_location, geocode_address, reverse_geocode\n- 地图：search_places, get_directions\n- 通知：create_notification, list_notifications, cancel_notification\n- 相册：search_photos, get_photo_metadata, save_photo\n- 健康数据：get_health_data, get_health_stats",
       "files": []
     },
     {
