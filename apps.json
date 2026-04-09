@@ -25,6 +25,15 @@
       "icon": "",
       "versions": [
         {
+          "version": "2.0.1",
+          "build": 1775695053201,
+          "date": "2026-04-09T00:37:33.201Z",
+          "sizeMB": 6.8,
+          "sha256": "7b9f2c87",
+          "changelog": "v2.0.1: 修复\n- App 名称改为 PocketClaw\n- 添加详细的错误日志（文件大小、内容预览）\n- 帮助诊断 config.json 加载问题",
+          "files": []
+        },
+        {
           "version": "2.0.0",
           "build": 1775693695603,
           "date": "2026-04-09T00:14:55.603Z",
@@ -43,7 +52,7 @@
           "files": []
         }
       ],
-      "latest": "2.0.0",
+      "latest": "2.0.1",
       "shortCode": "a7683e",
       "shortUrl": "https://ota.momomo.dev/s/a7683e"
     }
