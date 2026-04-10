@@ -84,6 +84,26 @@
       "latest": "0.4.1",
       "shortCode": "285394",
       "shortUrl": "https://ota.momomo.dev/s/285394"
+    },
+    {
+      "id": "coreml-llm-chat",
+      "name": "Coreml Llm Chat",
+      "bundleId": "com.momo.coreml-llm-chat",
+      "icon": "",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "build": 1775821660441,
+          "date": "2026-04-10T11:47:40.441Z",
+          "sizeMB": 0.7,
+          "sha256": "b3cc6a08",
+          "changelog": "CoreML LLM Chat - 本地运行 LLM 模型",
+          "files": []
+        }
+      ],
+      "latest": "1.0.0",
+      "shortCode": "e91b17",
+      "shortUrl": "https://ota.momomo.dev/s/e91b17"
     }
   ]
 }

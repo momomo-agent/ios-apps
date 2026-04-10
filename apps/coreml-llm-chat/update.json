@@ -1,0 +1,13 @@
+{
+  "appId": "coreml-llm-chat",
+  "name": "Coreml Llm Chat",
+  "bundleId": "com.momo.coreml-llm-chat",
+  "latestVersion": "1.0.0",
+  "build": 1775821660441,
+  "date": "2026-04-10T11:47:40.441Z",
+  "ipaSize": 0.7,
+  "sha256": "b3cc6a08",
+  "downloadUrl": "https://ota.momomo.dev/apps/coreml-llm-chat/coreml-llm-chat.ipa",
+  "manifestUrl": "https://ota.momomo.dev/apps/coreml-llm-chat/manifest.plist",
+  "detailUrl": "https://ota.momomo.dev/apps/coreml-llm-chat/"
+}
