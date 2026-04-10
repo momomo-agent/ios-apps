@@ -1,0 +1,20 @@
+{
+  "id": "coreml-llm",
+  "name": "Coreml Llm",
+  "bundleId": "com.momo.coreml-llm",
+  "icon": "",
+  "versions": [
+    {
+      "version": "0.4.0",
+      "build": 1775812282412,
+      "date": "2026-04-10T09:11:22.412Z",
+      "sizeMB": 0.7,
+      "sha256": "9e6576d3",
+      "changelog": "Gemma 4 E2B multimodal on ANE, 28 tok/s, image understanding",
+      "files": []
+    }
+  ],
+  "latest": "0.4.0",
+  "shortCode": "285394",
+  "shortUrl": "https://ota.momomo.dev/s/285394"
+}

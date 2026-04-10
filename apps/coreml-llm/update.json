@@ -1,0 +1,13 @@
+{
+  "appId": "coreml-llm",
+  "name": "Coreml Llm",
+  "bundleId": "com.momo.coreml-llm",
+  "latestVersion": "0.4.0",
+  "build": 1775812282412,
+  "date": "2026-04-10T09:11:22.412Z",
+  "ipaSize": 0.7,
+  "sha256": "9e6576d3",
+  "downloadUrl": "https://ota.momomo.dev/apps/coreml-llm/coreml-llm.ipa",
+  "manifestUrl": "https://ota.momomo.dev/apps/coreml-llm/manifest.plist",
+  "detailUrl": "https://ota.momomo.dev/apps/coreml-llm/"
+}
