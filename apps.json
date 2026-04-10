@@ -63,6 +63,15 @@
       "icon": "",
       "versions": [
         {
+          "version": "0.4.1",
+          "build": 1775818017757,
+          "date": "2026-04-10T10:46:57.757Z",
+          "sizeMB": 0.7,
+          "sha256": "4ccf45ae",
+          "changelog": "Signed build with increased-memory-limit, Gemma 4 E2B multimodal on ANE",
+          "files": []
+        },
+        {
           "version": "0.4.0",
           "build": 1775812282412,
           "date": "2026-04-10T09:11:22.412Z",
@@ -72,7 +81,7 @@
           "files": []
         }
       ],
-      "latest": "0.4.0",
+      "latest": "0.4.1",
       "shortCode": "285394",
       "shortUrl": "https://ota.momomo.dev/s/285394"
     }
