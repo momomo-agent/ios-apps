@@ -104,6 +104,26 @@
       "latest": "1.0.0",
       "shortCode": "e91b17",
       "shortUrl": "https://ota.momomo.dev/s/e91b17"
+    },
+    {
+      "id": "tailgate",
+      "name": "Tailgate",
+      "bundleId": "com.momo.tailgate",
+      "icon": "",
+      "versions": [
+        {
+          "version": "2.0.0",
+          "build": 1776131922189,
+          "date": "2026-04-14T01:58:42.189Z",
+          "sizeMB": 10.6,
+          "sha256": "91bd4539",
+          "changelog": "v2 重构：@Observable 架构、Tab 浏览器、SSH PTY 终端、Dashboard 看板、书签持久化",
+          "files": []
+        }
+      ],
+      "latest": "2.0.0",
+      "shortCode": "810adc",
+      "shortUrl": "https://ota.momomo.dev/s/810adc"
     }
   ]
 }

@@ -1,0 +1,13 @@
+{
+  "appId": "tailgate",
+  "name": "Tailgate",
+  "bundleId": "com.momo.tailgate",
+  "latestVersion": "2.0.0",
+  "build": 1776131922189,
+  "date": "2026-04-14T01:58:42.189Z",
+  "ipaSize": 10.6,
+  "sha256": "91bd4539",
+  "downloadUrl": "https://ota.momomo.dev/apps/tailgate/tailgate.ipa",
+  "manifestUrl": "https://ota.momomo.dev/apps/tailgate/manifest.plist",
+  "detailUrl": "https://ota.momomo.dev/apps/tailgate/"
+}
