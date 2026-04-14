@@ -112,6 +112,15 @@
       "icon": "",
       "versions": [
         {
+          "version": "2.0.3",
+          "build": 1776170341987,
+          "date": "2026-04-14T12:39:01.987Z",
+          "sizeMB": 10.6,
+          "sha256": "d6c8a792",
+          "changelog": "重新部署，修复 OTA 安装",
+          "files": []
+        },
+        {
           "version": "2.0.2",
           "build": 1776151595172,
           "date": "2026-04-14T07:26:35.172Z",
@@ -139,7 +148,7 @@
           "files": []
         }
       ],
-      "latest": "2.0.2",
+      "latest": "2.0.3",
       "shortCode": "810adc",
       "shortUrl": "https://ota.momomo.dev/s/810adc"
     }
