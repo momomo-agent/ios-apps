@@ -108,9 +108,18 @@
     {
       "id": "tailgate",
       "name": "Tailgate",
-      "bundleId": "com.momo.tailgate",
+      "bundleId": "com.momo.Tailgate",
       "icon": "",
       "versions": [
+        {
+          "version": "2.0.2",
+          "build": 1776151595172,
+          "date": "2026-04-14T07:26:35.172Z",
+          "sizeMB": 10.6,
+          "sha256": "4f6dafb7",
+          "changelog": "修复 manifest bundle ID 大小写",
+          "files": []
+        },
         {
           "version": "2.0.1",
           "build": 1776145158383,
@@ -130,7 +139,7 @@
           "files": []
         }
       ],
-      "latest": "2.0.1",
+      "latest": "2.0.2",
       "shortCode": "810adc",
       "shortUrl": "https://ota.momomo.dev/s/810adc"
     }
