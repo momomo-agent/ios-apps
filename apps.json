@@ -151,6 +151,26 @@
       "latest": "2.0.3",
       "shortCode": "810adc",
       "shortUrl": "https://ota.momomo.dev/s/810adc"
+    },
+    {
+      "id": "talky",
+      "name": "Talky",
+      "bundleId": "com.momo.talky",
+      "icon": "",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "build": 1778205698725,
+          "date": "2026-05-08T02:01:38.725Z",
+          "sizeMB": 0.7,
+          "sha256": "b6a9d3d5",
+          "changelog": "初版：语音长按时 capture 屏幕 + 红圈标记触点，松手再 capture 一张，拼图发给 LLM（让模型看到用户在指什么）",
+          "files": []
+        }
+      ],
+      "latest": "1.0.0",
+      "shortCode": "e97b34",
+      "shortUrl": "https://ota.momomo.dev/s/e97b34"
     }
   ]
 }

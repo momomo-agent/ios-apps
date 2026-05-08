@@ -1,0 +1,13 @@
+{
+  "appId": "talky",
+  "name": "Talky",
+  "bundleId": "com.momo.talky",
+  "latestVersion": "1.0.0",
+  "build": 1778205698725,
+  "date": "2026-05-08T02:01:38.725Z",
+  "ipaSize": 0.7,
+  "sha256": "b6a9d3d5",
+  "downloadUrl": "https://ota.momomo.dev/apps/talky/talky.ipa",
+  "manifestUrl": "https://ota.momomo.dev/apps/talky/manifest.plist",
+  "detailUrl": "https://ota.momomo.dev/apps/talky/"
+}
